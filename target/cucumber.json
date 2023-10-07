@@ -1,0 +1,114 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2023-10-07T22:36:16.480Z",
+        "line": 6,
+        "name": "As a google search user i can search iphone13",
+        "description": "",
+        "id": "check-google-search-function;as-a-google-search-user-i-can-search-iphone13",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3660469300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "open a browser",
+            "match": {
+              "location": "Stepdef.open_a_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1590531100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "go to google",
+            "match": {
+              "location": "Stepdef.go_to_google()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 192848900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "search for iphone13",
+            "match": {
+              "location": "Stepdef.searchforiphone13()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3612012500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "search option should visible only iphone13",
+            "match": {
+              "location": "Stepdef.searchoptionshouldvisibleonlyiphone13()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@Function"
+          },
+          {
+            "name": "@Smoke"
+          },
+          {
+            "name": "@Regression"
+          },
+          {
+            "name": "@Positive"
+          },
+          {
+            "name": "@TC_BCNP-26"
+          }
+        ]
+      }
+    ],
+    "name": "check google search function",
+    "description": "  description: iphone 13 must visible",
+    "id": "check-google-search-function",
+    "keyword": "Feature",
+    "uri": "file:src/main/resources/GoogleSearch.feature",
+    "tags": [
+      {
+        "name": "@Function",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      },
+      {
+        "name": "@Smoke",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 11
+        }
+      },
+      {
+        "name": "@Regression",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 18
+        }
+      }
+    ]
+  }
+]

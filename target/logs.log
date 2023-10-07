@@ -1,0 +1,34 @@
+2023-10-07 18:36:25,097 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - List count = 10
+2023-10-07 18:36:25,116 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Search drop down options =iphone 13
+2023-10-07 18:36:25,144 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Condition =true
+2023-10-07 18:36:25,166 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Good
+2023-10-07 18:36:25,194 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Search drop down options =Apple iPhone 13 Pro Max
+Mobile phone
+2023-10-07 18:36:25,212 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Condition =true
+2023-10-07 18:36:25,224 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Good
+2023-10-07 18:36:25,245 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Search drop down options =iPhone 13 Pro
+Mobile phone
+2023-10-07 18:36:25,254 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Condition =true
+2023-10-07 18:36:25,265 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Good
+2023-10-07 18:36:25,285 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Search drop down options =Apple iPhone 13 Mini
+Mobile phone
+2023-10-07 18:36:25,293 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Condition =true
+2023-10-07 18:36:25,303 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Good
+2023-10-07 18:36:25,325 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Search drop down options =iphone 13 price
+2023-10-07 18:36:25,334 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Condition =true
+2023-10-07 18:36:25,345 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Good
+2023-10-07 18:36:25,364 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Search drop down options =iphone 13 case
+2023-10-07 18:36:25,374 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Condition =true
+2023-10-07 18:36:25,382 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Good
+2023-10-07 18:36:25,399 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Search drop down options =iphone 13 colors
+2023-10-07 18:36:25,409 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Condition =true
+2023-10-07 18:36:25,417 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Good
+2023-10-07 18:36:25,439 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Search drop down options =iphone 13 pro case
+2023-10-07 18:36:25,449 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Condition =true
+2023-10-07 18:36:25,458 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Good
+2023-10-07 18:36:25,474 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Search drop down options =iphone 13 pro max case
+2023-10-07 18:36:25,482 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Condition =true
+2023-10-07 18:36:25,491 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Good
+2023-10-07 18:36:25,509 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Search drop down options =iphone 13 size
+2023-10-07 18:36:25,518 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Condition =true
+2023-10-07 18:36:25,530 [main] INFO  com.cucumber.test.Stepdef - searchoptionshouldvisibleonlyiphone13 - Good
